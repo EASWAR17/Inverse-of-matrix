@@ -35,3 +35,4 @@ print(numpy.linalg.inv(l1))
 ![](x3.PNG)
 
 ## RESULT:
+thus the program to find inverse of matrix is created successfully.
